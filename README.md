@@ -1,0 +1,41 @@
+Hands-on cybersecurity coursework and projects completed through HyperionDev's Cybersecurity Bootcamp which is aligned with the CompTIA Security+, Network+, and CySA+ exams, some of the most widely respected credentials in the industry covering penetration testing, digital forensics, network security, secure development, ethical hacking methodology and more.
+
+Final Bootcamp Average: 99%
+
+This repo documents a progression from foundational security and Python concepts through to applied offensive and defensive security labs including exploiting a real vulnerable host end-to-end, building forensic and database tooling from scratch, and hardening web applications against common attack vectors.
+
+Skills Demonstrated:
+
+Penetration Testing: Nmap, Nessus, Metasploit-style exploitation, privilege escalation, backdoor identification
+Digital Forensics: Metadata extraction, evidence handling, custom forensic tooling (Python/Tkinter)
+Network Security: Reconnaissance, OSINT (Assetfinder, Wappalyzer, Google dorking), vulnerability scanning
+Application Security: SQL injection identification & remediation, parameterised queries, password hashing (bcrypt)
+Systems & Scripting: Python, SQLite, Linux (Kali), Windows/Apache server hardening, SSL/TLS configuration
+Database Security: Normalisation (1NF–3NF), secure schema design
+Repository Structure:
+
+— Python Basics for Cybersecurity Foundational scripting and logic, building the programming base used in later offensive tooling.
+
+— Systems, Tools, Hashing Password security, server hardening, task automation fundamentals and more.
+
+— Databases, Networks & Applied Security Applied offensive and defensive security labs — penetration testing, database security, digital forensics, OSINT/reconnaissance, vulnerability assessment and more.
+
+Environment:
+
+Labs were completed across a multi-OS environment:
+
+Windows — VS Code, CMD, Apache/SSL configuration
+Kali Linux (VirtualBox) — penetration testing tooling, network lab configuration
+Ubuntu (VBox) — Terminal-based scripting, tooling, and lab work
+About This Portfolio:
+
+This repository was completed as part of HyperionDev's Cybersecurity Bootcamp and migrated here with full commit history for portfolio purposes. Each folder contains the original task briefs alongside completed solutions, write-ups, and supporting evidence (screenshots, output logs) where applicable.
+
+Contant:
+
+LinkedIn: www.linkedin.com/in/splendid-innate-440622427
+Email: spleinnate@gmail.com
+
+About:
+
+Hands-on cybersecurity portfolio - Python coding basics for cybersecurity, penetration testing, digital forensics, network security, data analysis, SQL/database security labs and More.
