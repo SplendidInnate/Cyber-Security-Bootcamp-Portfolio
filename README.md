@@ -24,12 +24,9 @@ Environment:
 
 Labs were completed across a multi-OS environment:
 
-Windows — VS Code, CMD, Apache/SSL configuration
+Windows — VS Code, CMD, Apache/SSL configuration, Terminal, Powershell
 Kali Linux (VirtualBox) — penetration testing tooling, network lab configuration
 Ubuntu (VBox) — Terminal-based scripting, tooling, and lab work
-About This Portfolio:
-
-This repository was completed as part of HyperionDev's Cybersecurity Bootcamp and migrated here with full commit history for portfolio purposes. Each folder contains the original task briefs alongside completed solutions, write-ups, and supporting evidence (screenshots, output logs) where applicable.
 
 Contant:
 
