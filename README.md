@@ -34,8 +34,5 @@ This repository was completed as part of HyperionDev's Cybersecurity Bootcamp an
 Contant:
 
 LinkedIn: www.linkedin.com/in/splendid-innate-440622427
+
 Email: spleinnate@gmail.com
-
-About:
-
-Hands-on cybersecurity portfolio - Python coding basics for cybersecurity, penetration testing, digital forensics, network security, data analysis, SQL/database security labs and More.
